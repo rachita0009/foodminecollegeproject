@@ -1,0 +1,26 @@
+.form__contant {
+    box-shadow: 0px 0px 5px #00000047;
+    border-radius: 5px;
+    width: 500px;
+    margin: 3rem auto 0;
+    padding: 0px 0;
+    overflow: hidden;
+}
+.form__title {
+    background-color: #e72929;
+    text-align: center;
+}
+.form__title h1 {
+    font-size: 22px;
+    color: #ffffff;
+    padding: 12px 0;
+}
+.form__contant form {
+    padding: 30px 30px;
+}
+.form__contant form .form-group label {
+    margin: 0px;
+}
+.form__contant form .form-group p {
+    margin: 0px;
+}
